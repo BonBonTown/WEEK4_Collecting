@@ -12,7 +12,8 @@ The dataset **Artists** comprises 15,243 records of artists whose works are coll
 ### 2. What is the birth date distribution of male, female, and non-binary artists of MoMA after the 1800s？
 
 
-## Format of Dataset
+## Dataset
+### Format
 CSV 
 
 
@@ -31,7 +32,7 @@ Wiki QID        | Wikidata identifier for the artist | String
 ULAN            | Getty Vocabulary Program identifier| String
 
 
-## Source of Dataset
+### Source
 http://dx.doi.org/10.5281/zenodo.7269353
 
 
