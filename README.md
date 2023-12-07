@@ -1,14 +1,18 @@
-# A Dataset of Artists' Information from MoMA
+# Research Question Exploration Based on the Dataset about Artist Information from MoMA
 
 ## General Description
-This folder contains a dataset named **Artists**, one of the subsets from **The Museum of Modern Art (MoMA) Collection**, a dataset released on November 1, 2022 and created to collect the information about the artworks and artists in the museum.
+This folder contains a dataset named **Artists**, one of the subsets from **The Museum of Modern Art (MoMA) Collection**, and a Jupyter Notebook file for exploring two research questions based on the dataset.
 
 The dataset **Artists** comprises 15,243 records of artists whose works are collected by MoMA. It displays the metadata of the artists, including name, nationality, gender, birth year, death year, Wiki QID, and Getty ULAN ID.
 
-## Format
+## Research Questions
+### 1. Which are the top 10 countries of origin for the artists of MoMA？
+### 2. What is the birth date distribution of male, female, and non-binary artists of MoMA after the 1800s？
+
+## Format of Dataset
 CSV 
 
-## Variables (Columns)
+## Variables in the Dataset (Columns)
 
 Variable        | Description                       | Data Type
 --------------- | --------------------------------- | ---------
@@ -23,13 +27,8 @@ Wiki QID        | Wikidata identifier for the artist | String
 ULAN            | Getty Vocabulary Program identifier| String
 
 
-## Creator
-The Museum of Modern Art (MoMA)
 
-## Publisher
-Zenodo
-
-## Source
+## Source of Dataset
 http://dx.doi.org/10.5281/zenodo.7269353
 
 ## Restriction
