@@ -8,8 +8,8 @@ The dataset **Artists** comprises 15,243 records of artists whose works are coll
 
 
 ## Research Questions
-### 1. Which are the top 10 countries of origin for the artists of MoMA？
-### 2. What is the birth date distribution of male, female, and non-binary artists of MoMA after the 1800s？
+1. Which are the top 10 countries of origin for the artists of MoMA？
+2. What is the birth date distribution of male, female, and non-binary artists of MoMA after the 1800s？
 
 
 ## Dataset
