@@ -36,10 +36,5 @@ ULAN            | Getty Vocabulary Program identifier| String
 http://dx.doi.org/10.5281/zenodo.7269353
 
 
-## Creator
-WANG MENGYUN
-S5715407
-
-
 ## License
 Creative Commons Zero v1.0 Universal
