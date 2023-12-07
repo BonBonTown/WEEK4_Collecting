@@ -17,7 +17,7 @@ The dataset **Artists** comprises 15,243 records of artists whose works are coll
 CSV 
 
 
-## Variables in the Dataset (Columns)
+### Variables (Columns)
 
 Variable        | Description                       | Data Type
 --------------- | --------------------------------- | ---------
